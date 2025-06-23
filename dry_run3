@@ -1,2 +1,20 @@
-dry run check
-end today
+Subject: Tech Summit Idea – Tax Timing Optimizer for Equity Clients
+
+Hi [Manager’s Name],
+
+I wanted to share an idea I’m thinking of submitting for the tech summit. It’s something I believe could actually help both clients and our advisors, especially in the equity space.
+
+Right now, most clients who get ISOs or RSUs don’t really understand how to time their exercise or sale properly. Like if someone has ISOs and exercises without realizing they’ll hit AMT, they get stuck with a big unexpected tax bill. Or if they’re moving from California to Texas and they sell before moving, they lose a chance to save on state taxes — just because no one warned them or ran a quick what-if simulation.
+
+Currently, our FAs mostly tell clients to “check with a tax advisor” because they don’t really have any internal tool that can show AMT warnings or tax savings based on timing. At best, they might estimate using Excel or rules of thumb, but nothing scalable or consistent.
+
+The idea is to build a tool that takes the grant info (like vesting schedules, grant type, FMV, etc.), relocation info if any, and a few basic inputs like income — and then it can simulate different timing options. It can show, for example:
+
+“If you wait 3 more months to exercise, you avoid AMT and save $18,000.”
+Or: “You’re moving to Texas in 60 days — consider deferring the sale until after your move to reduce state tax.”
+
+For the client, it’s a big saving. For the advisor, it’s a value-add that builds trust. And for us, it means more client stickiness, more assets staying with Merrill, and more action on the equity side instead of clients doing everything through other brokers.
+
+It doesn’t require GenAI or anything fancy — just rule-based logic, FMV feeds, and some tax tables. And it’s not something Fidelity or Schwab currently offer either.
+
+Let me know if this sounds relevant — happy to write it out more cleanly if needed.
